@@ -1,10 +1,9 @@
 ---
-
 source_id: "SRC-c0e6a3c1507d46918f6b"
 title: "KCCP-REF Clinical Automation and Medical Liability Claim Register"
 status: "OBSERVED"
 last_reviewed: "2026-09-24"
----------------------------
+---
 
 # KCCP-REF Clinical Automation and Medical Liability — Claim Register
 
