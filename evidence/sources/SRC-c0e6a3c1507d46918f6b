@@ -1,0 +1,286 @@
+---
+
+source_id: "SRC-c0e6a3c1507d46918f6b"
+title: "KCCP-REF Legislative Policy Brief on Clinical Automation and Medical Liability"
+source_type: "research_record"
+author: "Sally Sophia as Knowledge Grapher"
+provenance: "Google Doc Ingestion"
+epistemic_status: "OBSERVED"
+date_recorded: "2026-09-24"
+domain: "Clinical Automation, Medical Liability, AI Governance"
+---------------------------------------------------------------
+
+# SRC-c0e6a3c1507d46918f6b — KCCP-REF Legislative Policy Brief
+
+## 1. Source Identity
+
+| Field                      | Value                                                                          |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| Source ID                  | `SRC-c0e6a3c1507d46918f6b`                                                     |
+| Source Title               | KCCP-REF Legislative Policy Brief on Clinical Automation and Medical Liability |
+| Author / Knowledge Grapher | Sally Sophia                                                                   |
+| Source Type                | Research Record                                                                |
+| Provenance                 | Google Doc Ingestion                                                           |
+| Epistemic Status           | OBSERVED                                                                       |
+| Domain                     | Clinical Automation, Medical Liability, AI Governance                          |
+| DOI                        | UNKNOWN                                                                        |
+| Canonical URL              | UNKNOWN                                                                        |
+| SHA-256                    | UNKNOWN                                                                        |
+
+## 2. Source Purpose
+
+This source record establishes the provenance boundary for research concerning clinical automation, automated Clinical Decision Support (CDS), medical liability allocation, constitutional health considerations, regulatory resilience, and proposed governance mechanisms for Medical AI.
+
+The research result specifically discusses application to Indonesian healthcare environments, including 3T healthcare facilities.
+
+## 3. Major Research Domains
+
+The source covers the following major domains:
+
+### Constitutional Foundations
+
+* UUD 1945
+* Right to life
+* Right to health
+* State responsibility for healthcare facilities
+* Bodily integrity
+* Clinical accountability
+
+### Indonesian Health and AI Governance
+
+* UU No. 17/2023 tentang Kesehatan
+* UU No. 27/2022 tentang Pelindungan Data Pribadi
+* Permenkes No. 24/2022
+* KMK No. HK.01.07/MENKES/1423/2022
+* SE Menkominfo No. 9/2023
+* UU No. 8/1999
+* KUHPerdata provisions referenced by the source
+
+### Medical AI Liability
+
+* Developer responsibility
+* Healthcare-facility responsibility
+* Clinician responsibility
+* Liability bifurcation
+* Learned intermediary concepts
+* Qualified Intermediary Standard
+* Strict product liability
+* Fault-based clinician liability
+* Clinician override concepts
+
+### Comparative Governance
+
+* European Union AI governance
+* EU MDR
+* EU AI Act
+* United States FDA SaMD
+* Predetermined Change Control Plans (PCCP)
+* Singapore AI Verify
+* Comparative regulatory approaches
+
+### Regulatory Resilience
+
+* Principles-based legislation
+* Regulatory sandboxes
+* PCCP mechanisms
+* Continuous monitoring
+* Post-market surveillance
+* Independent conformity assessment
+
+### Proposed Legislative Model
+
+The research result contains proposed model legislative provisions concerning:
+
+* AI healthcare definitions
+* Risk classification
+* Levels of autonomy
+* Liability allocation
+* Algorithmic transparency
+* Cryptographic audit trails
+* Post-market monitoring
+* Drift detection
+* Safety mechanisms
+
+## 4. KCCP-REF Five-Pillar Structure
+
+The research result describes five conceptual pillars:
+
+| Pillar | Concept                               |
+| ------ | ------------------------------------- |
+| K      | Constitutional Foundations            |
+| C1     | Causation & Culpability Bifurcation   |
+| C2     | Comparative Jurisprudence             |
+| P      | Perpetual Regulatory Resilience       |
+| REF    | Regulatory Harmonization / References |
+
+These pillars are treated as the conceptual structure of the KCCP-REF research model.
+
+## 5. Epistemic Boundary
+
+The primary grounding source for this record is:
+
+`SRC-c0e6a3c1507d46918f6b`
+
+Claims contained in the research result should initially be classified as:
+
+**OBSERVED**
+
+However, `OBSERVED` means that the claim is present in the supplied research record. It does not automatically mean that the underlying statute, regulation, standard, case law, or technical specification has been independently verified.
+
+Independent verification should therefore be recorded as additional provenance.
+
+## 6. Explicitly Unknown Scope
+
+The research result explicitly identifies the following requested areas as outside the primary source scope:
+
+* Specific UU ITE criminal digital-evidence provisions
+* KUHP Nasional
+* KUHAP
+* NIST SP 800-86
+* NIST SP 800-61 Rev. 3
+* SWGDE
+* ISO/IEC 27037
+* Specific GIS / AccessMod 5 spatial coordinates
+
+These items remain:
+
+`UNKNOWN`
+
+until independently verified.
+
+## 7. Important Distinction: Proposed vs Existing Law
+
+The research result contains both:
+
+1. References to existing Indonesian laws, regulations, and policy instruments; and
+2. Proposed KCCP-REF governance mechanisms and draft legislative text.
+
+These must not be merged.
+
+Existing legal instruments should be separately verified against authoritative legal sources.
+
+Proposed KCCP-REF clauses should be labeled as:
+
+**PROPOSED / DRAFT**
+
+and must not be represented as currently enacted Indonesian law.
+
+## 8. Proposed Knowledge Nodes
+
+The source should be transformed into separate knowledge articles rather than copied into one large article.
+
+### Primary Hub
+
+* Medical AI Clinical Liability & Governance
+
+### Supporting Articles
+
+* Medical AI and Indonesian Health Law
+* Clinical AI Liability
+* Qualified Intermediary Standard for Medical AI
+* Developer Liability in Medical AI
+* Clinician Liability and AI-Assisted Decisions
+* Medical AI Regulatory Governance
+* Medical AI Regulatory Sandboxes
+* Medical AI Predetermined Change Control Plans
+* Medical AI Algorithmic Audit Trails
+* Medical AI Post-Market Surveillance
+* Medical AI in 3T Healthcare
+* Medical AI Legislative Policy Frameworks
+
+## 9. Proposed / Draft Concepts
+
+The following concepts in the research result should be treated as proposed models unless independently verified as existing law:
+
+* KCCP-REF Governance Model
+* Three-tier Medical AI autonomy model
+* Tier 3 autonomous AI prohibition
+* Qualified Intermediary Standard
+* Clinician Override Safe Harbor
+* Proposed Government Regulation
+* Statutory PCCP model
+* Automated drift circuit breaker
+* Joint institutional insurance pools
+* Proposed cryptographic audit requirements
+
+## 10. Evidence Status
+
+| Status   | Meaning                                                 |
+| -------- | ------------------------------------------------------- |
+| OBSERVED | Present in the supplied research record                 |
+| VERIFIED | Independently confirmed through an authoritative source |
+| PROPOSED | Proposed or draft policy/legal mechanism                |
+| INFERRED | Analytical interpretation                               |
+| UNKNOWN  | Not established by available evidence                   |
+
+Current source-record status:
+
+**OBSERVED**
+
+## 11. Provenance Chain
+
+```text
+Research Result
+      ↓
+SRC-c0e6a3c1507d46918f6b
+      ↓
+Claim / Entity Extraction
+      ↓
+Medical AI Clinical Liability & Governance
+      ↓
+Supporting Knowledge Articles
+      ↓
+Independent Legal / Regulatory Verification
+      ↓
+Reviewed Knowledge
+```
+
+## 12. Related Source
+
+This source is separate from:
+
+`SRC-9ede95cf33d9e69a9056`
+
+which covers Medical AI Evaluation Frameworks.
+
+The two sources may later be connected through shared concepts such as:
+
+* Medical AI Governance
+* Clinical AI
+* SaMD
+* PCCP
+* Bias
+* Human oversight
+* Post-deployment monitoring
+
+## 13. Research Backlog
+
+Independent verification should be performed for:
+
+* Indonesian constitutional provisions cited by the source
+* UU No. 17/2023 provisions
+* UU No. 27/2022 provisions
+* Permenkes No. 24/2022 provisions
+* KMK No. HK.01.07/MENKES/1423/2022
+* SE Menkominfo No. 9/2023
+* UU No. 8/1999 provisions
+* KUHPerdata provisions
+* EU AI Act claims
+* EU MDR claims
+* FDA SaMD/PCCP claims
+* Singapore AI Verify claims
+* All proposed KCCP-REF legislative mechanisms
+
+## 14. Record Integrity
+
+Future edits should preserve:
+
+* `source_id`
+* source title
+* provenance
+* epistemic status
+* distinction between existing law and proposed law
+* `UNKNOWN` boundary
+* distinction between OBSERVED and VERIFIED evidence
+
+Independent legal or regulatory verification should be added as separate source records rather than silently replacing the original research record.
