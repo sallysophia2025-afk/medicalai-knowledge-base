@@ -1,5 +1,4 @@
-# medicalai-knowledge-base
-Open knowledge base for medical artificial intelligence, healthcare AI, biomedical data, research, evidence, ethics, and governance.
+
 # MedicalAI Knowledge Base
 
 > Open knowledge base for Medical Artificial Intelligence, healthcare AI, biomedical data, research, evidence, ethics, governance, and responsible AI.
