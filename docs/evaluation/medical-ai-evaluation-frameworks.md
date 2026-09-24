@@ -1,12 +1,11 @@
 ---
 
-title: Medical AI Evaluation Frameworks
-domain: Medical AI Evaluation
-status: OBSERVED
-source_id: SRC-9ede95cf33d9e69a9056
-last_reviewed: 2026-09-24
--------------------------
-
+title: "Medical AI Evaluation Frameworks"
+domain: "Medical AI Evaluation"
+status: "OBSERVED"
+source_id: "SRC-9ede95cf33d9e69a9056"
+last_reviewed: "2026-09-24"
+---------------------------
 # Medical AI Evaluation Frameworks
 
 > **MedicalAI Knowledge Base**
